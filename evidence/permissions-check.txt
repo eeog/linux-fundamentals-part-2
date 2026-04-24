@@ -1,0 +1,2 @@
+# Example permission check
+ls -l suspicious.sh
